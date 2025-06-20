@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "helmet": "^5.1.1",
-    "mocha": "6.2.1",
+    "mocha": "11.0.1",
     "mongo-sanitize": "1.0.1",
     "mongodb": "3.3.2",
     "mongoose": "5.7.1",
@@ -23,6 +23,6 @@
     "nodemon": "^2.0.19",
     "onchange": "^7.1.0",
     "shortid": "^2.2.16",
-    "socket.io": "^4.5.1"
+    "socket.io": "^4.8.0"
   }
 }
